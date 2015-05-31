@@ -1,8 +1,8 @@
-Title: Kelowna Regional TS Bus - Mon …
+Title: Kelowna Regional TS Bus - Mon…
 ----------
 Short description:
-Kelowna Regional Transit System buses for MonTransit BETA.
-Schedule. Alerts. News.
+Kelowna Regional Transit System buses for MonTransit BETA
+Schedule. Alerts. News
 ----------
 What's new in this version?:
 Schedule from April 26, 2015 to September 5, 2015.
