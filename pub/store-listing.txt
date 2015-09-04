@@ -5,7 +5,7 @@ Kelowna Regional Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from April 26, 2015 to September 5, 2015.
+Schedule from September 6, 2015 to April 16, 2016.
 Tweets from @BCTransit.
 ----------
 Full description:
