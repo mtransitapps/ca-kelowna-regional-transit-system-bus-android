@@ -8,8 +8,8 @@
 701,0,'Queensway Exch',7
 801,0,'OK College',8
 800,0,'UBCO',8
-900,0,'Orchard Pa',9
-901,0,'Queensway',9
+900,0,'Orchard Pk',9
+901,0,'Queensway Exch',9
 1000,0,'North Rutland',10
 1001,0,'Queensway Exch',10
 1101,0,'Queensway Exch',11
@@ -21,15 +21,15 @@
 1501,0,'Crawford',15
 1601,0,'Kettle Vly',16
 1700,0,'Southridge',17
-2000,0,'Boucherie Mtn Exc',20
+2000,0,'Boucherie Mtn Exch',20
 2001,0,'Westbank Exch',20
 2101,0,'Glenrosa',21
 2201,0,'Peachland',22
 2200,0,'Westbank',22
 2301,0,'Lk Country',23
-2400,0,'Boucherie Mtn',24
+2400,0,'Boucherie Mtn Exch',24
 2401,0,'Westbank',24
-2500,0,'Boucherie Mt',25
+2500,0,'Boucherie Mtn Exch',25
 2501,0,'Westbank',25
 2700,0,'Horizon',27
 2801,0,'Smith Crk',28
