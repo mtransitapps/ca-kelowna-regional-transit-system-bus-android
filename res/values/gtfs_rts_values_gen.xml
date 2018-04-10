@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/Vancouver</string>
     <string name="gtfs_rts_area_min_lat">49.7519239958841</string>
     <string name="gtfs_rts_area_max_lat">50.0735169962704</string>
-    <string name="gtfs_rts_area_min_lng">-119.790039000116</string>
-    <string name="gtfs_rts_area_max_lng">-119.347167000113</string>
+    <string name="gtfs_rts_area_min_lng">-119.79003900011601</string>
+    <string name="gtfs_rts_area_max_lng">-119.34716700011302</string>
     <string name="gtfs_rts_color">34B233</string>
 </resources>
