@@ -2,8 +2,6 @@
 100,0,'Queensway Exch',1
 200,0,'North End Shuttle',2
 300,0,'Dilworth',3
-401,0,'S Pandosy Exch',4
-400,0,'UBCO Express',4
 500,0,'Downtown',5
 501,0,'Mission Rec Exch',5
 700,0,'Orchard Pk Exch',7
@@ -36,6 +34,7 @@
 2700,0,'Horizon',27
 2801,0,'Smith Crk',28
 2900,0,'Bear Crk',29
+3101,0,'Gellatly',31
 3200,0,'The Lks',32
 9700,0,'UBCO',97
 9701,0,'Westbank Ctr',97
