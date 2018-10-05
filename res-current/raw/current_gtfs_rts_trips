@@ -36,8 +36,8 @@
 1901,0,'Orchard Pk',19
 2001,0,'Boucherie Mtn',20
 2002,0,'Westbank',20
-2100,0,'Blue Jay & Canary',21
-2101,0,'Glenrosa',21
+2100,0,'Glenrosa',21
+2101,0,'Westbank',21
 2204,0,'Peachland',22
 2203,0,'Westbank',22
 2301,0,'Lk Country',23
@@ -52,6 +52,6 @@
 2901,0,'Boucherie Mtn',29
 3200,0,'Main & Grant',32
 3201,0,'Shoreline & Stillwater',32
-8801,0,'Special',88
+8801,0,'Boucherie Mtn',88
 9701,0,'UBCO',97
 9702,0,'Westbank',97
