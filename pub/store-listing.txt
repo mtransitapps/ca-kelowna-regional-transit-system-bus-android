@@ -2,16 +2,17 @@ Title: Kelowna Regional TS Bus - Mon…
 ----------
 Short description:
 Kelowna Regional Transit System buses for MonTransit.
-Schedule. Alerts. News.
+Schedule. Real time. News.
 ----------
 What's new in this version?:
 Schedule from September 19, 2018 to April 27, 2019.
+Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
 Full description:
 This app adds Kelowna Regional Transit System (BC Transit) buses information to MonTransit.
 
-This app provides the buses schedule and news from YouTube and @BCTransit on Twitter.
+The app contains the planned schedule as well as real time predictions from NextRide and news from YouTube and @BCTransit on Twitter.
 
 Kelowna Regional Transit System buses serve Kelowna, Lake Country, Peachland in British Columbia, Canada.
 
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-kelowna-regional-transit-system-bus-android
 This app is not related with BC Transit and Kelowna Regional Transit System.
 
 Permissions:
-- Other: required to read news from YouTube and Twitter
+- Other: required for real-time schedule predictions from nextride.kelowna.bctransit.com and to read news from YouTube and Twitter
 ----------
 Application type: Applications
 ----------
