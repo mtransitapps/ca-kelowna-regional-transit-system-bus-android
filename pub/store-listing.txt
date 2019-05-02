@@ -5,7 +5,7 @@ Kelowna Regional Transit System buses for MonTransit.
 Schedule. Real time. News.
 ----------
 What's new in this version?:
-Schedule from April 29, 2019 to July 28, 2019.
+Schedule from May 1, 2019 to July 30, 2019.
 Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
