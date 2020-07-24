@@ -1,54 +1,54 @@
-103,0,'Downtown',1
-104,0,'Mission Rec Exch',1
-201,0,'Cambridge & Ellis',2
-200,0,'Queensway Exch',2
-301,0,'Glenmore @ Summit',3
-300,0,'Orchard Pk',3
-403,0,'Downtown',4
-404,0,'Mission Rec Exch',4
-500,0,'Downtown',5
-501,0,'UBCO',5
-604,0,'OK College',6
-603,0,'UBCO',6
-702,0,'Downtown',7
-701,0,'Orchard Pk',7
-802,0,'Downtown',8
-801,0,'North Rutland',8
-902,0,'Downtown',9
-901,0,'Rutland',9
-1001,0,'McCulloch',10
-1002,0,'South Pandosy',10
-1104,0,'Black Mtn',11
-1103,0,'Rutland Exch',11
-1200,0,'Crawford',12
-1201,0,'Mission Rec Exch',12
-1300,0,'Kettle Vly',13
-1301,0,'Mission Rec Exch',13
-1401,0,'Mission Rec Exch',14
-1400,0,'Southridge',14
-1504,0,'Downtown',15
-1503,0,'Glenmore',15
-1603,0,'Glenmore',16
-1604,0,'Orchard Pk',16
-1701,0,'Boucherie Mtn',17
-1702,0,'Westbank',17
-1800,0,'Glenrosa',18
-1801,0,'Westbank',18
-1904,0,'Peachland',19
-1903,0,'Westbank',19
-2003,0,'Lk Country',20
-2004,0,'UBCO',20
-2101,0,'Boucherie Mtn',21
-2102,0,'Westbank',21
-2201,0,'Boucherie Mtn',22
-2202,0,'Westbank',22
-2303,0,'Boucherie Mtn',23
-2304,0,'Westbank Exch',23
-2403,0,'Boucherie Mtn',24
-2404,0,'Westbank',24
-2500,0,'Bear Crk',25
-2501,0,'Boucherie Mtn',25
-2600,0,'Main & Grant',26
-2601,0,'Shoreline & Stillwater',26
-2701,0,'UBCO',27
-2702,0,'Westbank',27
+188703,0,'Downtown',1887
+188704,0,'Mission Rec Exch',1887
+188801,0,'Cambridge & Ellis',1888
+188800,0,'Queensway Exch',1888
+188901,0,'Glenmore @ Summit',1889
+188900,0,'Orchard Pk',1889
+189003,0,'Downtown',1890
+189004,0,'Mission Rec Exch',1890
+189100,0,'Downtown',1891
+189101,0,'UBCO',1891
+189204,0,'OK College',1892
+189203,0,'UBCO',1892
+189302,0,'Downtown',1893
+189301,0,'Orchard Pk',1893
+189402,0,'Downtown',1894
+189401,0,'North Rutland',1894
+189502,0,'Downtown',1895
+189501,0,'Rutland',1895
+189601,0,'McCulloch',1896
+189602,0,'South Pandosy',1896
+189704,0,'Black Mtn',1897
+189703,0,'Rutland Exch',1897
+189800,0,'Crawford',1898
+189801,0,'Mission Rec Exch',1898
+189900,0,'Kettle Vly',1899
+189901,0,'Mission Rec Exch',1899
+190001,0,'Mission Rec Exch',1900
+190000,0,'Southridge',1900
+190104,0,'Downtown',1901
+190103,0,'Glenmore',1901
+190203,0,'Glenmore',1902
+190204,0,'Orchard Pk',1902
+190301,0,'Boucherie Mtn',1903
+190302,0,'Westbank',1903
+190400,0,'Glenrosa',1904
+190401,0,'Westbank',1904
+190504,0,'Peachland',1905
+190503,0,'Westbank',1905
+190603,0,'Lk Country',1906
+190604,0,'UBCO',1906
+190701,0,'Boucherie Mtn',1907
+190702,0,'Westbank',1907
+190801,0,'Boucherie Mtn',1908
+190802,0,'Westbank',1908
+190903,0,'Boucherie Mtn',1909
+190904,0,'Westbank Exch',1909
+191003,0,'Boucherie Mtn',1910
+191004,0,'Westbank',1910
+191100,0,'Bear Crk',1911
+191101,0,'Boucherie Mtn',1911
+191200,0,'Main & Grant',1912
+191201,0,'Shoreline & Stillwater',1912
+191301,0,'UBCO',1913
+191302,0,'Westbank',1913
