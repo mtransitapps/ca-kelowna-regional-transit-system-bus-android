@@ -1,49 +1,49 @@
-200500,0,'Downtown',2005
-200501,0,'Mission Rec Exch',2005
-200600,0,'North End Shuttle',2006
-200700,0,'Dilworth Mtn',2007
-200801,0,'Pandosy',2008
-200800,0,'UBCO',2008
-200900,0,'Downtown',2009
-200901,0,'Mission Rec Exch',2009
-201000,0,'Downtown',2010
-201001,0,'UBCO',2010
-201101,0,'OK College',2011
-201100,0,'UBCO',2011
-201200,0,'Downtown',2012
-201201,0,'Orchard Pk',2012
-201300,0,'Downtown',2013
-201301,0,'North Rutland',2013
-201400,0,'Downtown',2014
-201401,0,'Rutland',2014
-201501,0,'McCulloch',2015
-201500,0,'South Pandosy',2015
-201601,0,'Black Mtn',2016
-201600,0,'Orchard Pk',2016
-201701,0,'Crawford',2017
-201801,0,'Kettle Vly',2018
-201900,0,'Southridge',2019
-202001,0,'Downtown',2020
-202000,0,'Glenmore',2020
-202100,0,'Glenmore',2021
-202101,0,'Orchard Pk',2021
-202201,0,'Boucherie Mtn',2022
-202200,0,'Westbank',2022
-202301,0,'Glenrosa',2023
-202401,0,'Peachland',2024
-202400,0,'Westbank',2024
-202500,0,'Lk Country',2025
-202501,0,'UBCO',2025
-202601,0,'Boucherie Mtn',2026
-202600,0,'Westbank',2026
-202701,0,'Boucherie Mtn',2027
-202700,0,'Westbank',2027
-202800,0,'Boucherie Mtn',2028
-202801,0,'Westbank Exch',2028
-202900,0,'Boucherie Mtn',2029
-202901,0,'Westbank',2029
-203000,0,'Bear Crk',2030
-203100,0,'The Lks',2031
-203201,0,'Boucherie Mtn Exch',2032
-203301,0,'UBCO',2033
-203300,0,'Westbank',2033
+200,0,'Downtown',2
+201,0,'Mission Rec Exch',2
+300,0,'North End Shuttle',3
+400,0,'Dilworth Mtn',4
+501,0,'Pandosy',5
+500,0,'UBCO',5
+600,0,'Downtown',6
+601,0,'Mission Rec Exch',6
+700,0,'Downtown',7
+701,0,'UBCO',7
+801,0,'OK College',8
+800,0,'UBCO',8
+900,0,'Downtown',9
+901,0,'Orchard Pk',9
+1000,0,'Downtown',10
+1001,0,'North Rutland',10
+1100,0,'Downtown',11
+1101,0,'Rutland',11
+1201,0,'McCulloch',12
+1200,0,'South Pandosy',12
+1401,0,'Black Mtn',14
+1400,0,'Orchard Pk',14
+1501,0,'Crawford',15
+1601,0,'Kettle Vly',16
+1700,0,'Southridge',17
+1801,0,'Downtown',18
+1800,0,'Glenmore',18
+1900,0,'Glenmore',19
+1901,0,'Orchard Pk',19
+2001,0,'Boucherie Mtn',20
+2000,0,'Westbank',20
+2101,0,'Glenrosa',21
+2201,0,'Peachland',22
+2200,0,'Westbank',22
+2300,0,'Lk Country',23
+2301,0,'UBCO',23
+2401,0,'Boucherie Mtn',24
+2400,0,'Westbank',24
+2501,0,'Boucherie Mtn',25
+2500,0,'Westbank',25
+2600,0,'Boucherie Mtn',26
+2601,0,'Westbank',26
+2700,0,'Bear Crk',27
+2800,0,'The Lks',28
+2901,0,'Boucherie Mtn Exch',29
+3001,0,'UBCO',30
+3000,0,'Westbank',30
+139000,0,'Boucherie Mtn',1390
+139001,0,'Westbank Exch',1390
