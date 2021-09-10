@@ -2,6 +2,8 @@
 201,0,'Mission Rec Exch',2
 300,0,'North End Shuttle',3
 400,0,'Dilworth Mtn',4
+501,0,'Pandosy',5
+500,0,'UBCO',5
 600,0,'Downtown',6
 601,0,'Mission Rec Exch',6
 700,0,'Downtown',7
@@ -16,6 +18,7 @@
 1101,0,'Rutland',11
 1201,0,'McCulloch',12
 1200,0,'South Pandosy',12
+1301,0,'Quail Rdg',13
 1401,0,'Black Mtn',14
 1400,0,'Orchard Pk',14
 1501,0,'Crawford',15
@@ -40,6 +43,7 @@
 2601,0,'Westbank',26
 2700,0,'Bear Crk',27
 2800,0,'The Lks',28
+2901,0,'Boucherie Mtn Exch',29
 3001,0,'UBCO',30
 3000,0,'Westbank',30
 139000,0,'Boucherie Mtn',1390
