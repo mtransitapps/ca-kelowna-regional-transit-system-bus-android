@@ -1,30 +1,30 @@
-2,'1','Lakeshore','004b8d',50,3
-3,'2','North End Shuttle','8cc63f',51,3
-4,'3','Dilworth Mt','f37421',52,3
-5,'4','Pandosy / UBCO Express','00aeef',53,3
-6,'5','Gordon','fcaff7',54,3
-7,'6','Glenmore / UBCO Express','00aa47',55,3
-8,'8','University / College','ed1d8f',56,3
-9,'9','Shopper Shuttle','8177b7',57,3
-10,'10','North Rutland','49176b',1567,3
-11,'11','Rutland','b2221e',1568,3
-12,'12','McCulloch','4f6f19',1569,3
-13,'13','Quail Rdg','77af99',1570,3
-14,'14','Black Mtn','e270ab',1571,3
-15,'15','Crawford','5d87a1',1572,3
-16,'16','Kettle Vly','0073ae',1573,3
-17,'17','South Rdg','f49a5d',1574,3
-18,'18','Glenmore / Downtown','b3aa7e',1575,3
-19,'19','Glenmore / Orchard Pk','bf83b9',1576,3
-20,'20','Lakeview','a54499',1598,3
-21,'21','Glenrosa','00b5ad',1599,3
-22,'22','Peachland','b06e0e',1600,3
-23,'23','Lk Country','8e0c3a',1601,3
-24,'24','Shannon Rdg','e31937',1602,3
-25,'25','East Boundary','ac5c3b',1603,3
-26,'28','Shannon Lk','875d9f',1604,3
-27,'29','Bear Crk','7c3f25',1605,3
-28,'32','The Lks','ffc20e',1606,3
-29,'88','Special','004b8d',1607,3
-30,'97','Okanagan','8cc63f',1629,3
-1390,'26','Old Okanagan','f37421',1510585,3
+1,'1','Lakeshore','004B8D',49,3
+2,'2','North End Shuttle','8CC63F',50,3
+3,'3','Dilworth Mt','F37421',51,3
+4,'4','Pandosy / UBCO Express','00AEEF',52,3
+5,'5','Gordon','FCAFF7',53,3
+6,'6','Glenmore / UBCO Express','00AA47',54,3
+8,'8','University / College','ED1D8F',56,3
+9,'9','Shopper Shuttle','8177B7',57,3
+10,'10','North Rutland','49176B',1567,3
+11,'11','Rutland','B2221E',1568,3
+12,'12','McCulloch','4F6F19',1569,3
+13,'13','Quail Rdg','77AF99',1570,3
+14,'14','Black Mtn','E270AB',1571,3
+15,'15','Crawford','5D87A1',1572,3
+16,'16','Kettle Vly','0073AE',1573,3
+17,'17','South Rdg','F49A5D',1574,3
+18,'18','Glenmore / Downtown','B3AA7E',1575,3
+19,'19','Glenmore / Orchard Pk','BF83B9',1576,3
+20,'20','Lakeview','A54499',1598,3
+21,'21','Glenrosa','00B5AD',1599,3
+22,'22','Peachland','B06E0E',1600,3
+23,'23','Lk Country','8E0C3A',1601,3
+24,'24','Shannon Rdg','E31937',1602,3
+25,'25','East Boundary','AC5C3B',1603,3
+26,'26','Old Okanagan','F37421',1604,3
+28,'28','Shannon Lk','875D9F',1606,3
+29,'29','Bear Crk','7C3F25',1607,3
+32,'32','The Lks','FFC20E',1631,3
+88,'88','Special','004B8D',1792,3
+97,'97','Okanagan','8CC63F',1822,3
