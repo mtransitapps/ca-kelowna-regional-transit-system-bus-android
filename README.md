@@ -1,6 +1,6 @@
 # Kelowna Regional Transit System (BC Transit) for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-kelowna-regional-transit-system-bus-android/master/app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
+<img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
 ## Download on Google Play
 
@@ -9,9 +9,9 @@
 ## Screenshots
 
 <p float="left">
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-kelowna-regional-transit-system-bus-android/master/app-android/src/main/play/listings/en-US/graphics/phone-screenshots/1.png"/>
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-kelowna-regional-transit-system-bus-android/master/app-android/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"/>
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-kelowna-regional-transit-system-bus-android/master/app-android/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
+<img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/phone-screenshots/1.png"/>
+<img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"/>
+<img width="25%" height="25%" src="app-android/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
 </p>
 
 ## Social
