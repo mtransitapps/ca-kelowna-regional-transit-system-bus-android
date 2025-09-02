@@ -2,6 +2,8 @@
 101,0,'Mission Rec Exch',1
 200,0,'North End Shuttle',2
 300,0,'Dilworth Mtn',3
+400,0,'Orchard Pk',4
+401,0,'Pandosy',4
 500,0,'Downtown',5
 501,0,'Mission Rec Exch',5
 600,0,'Downtown',6
@@ -45,6 +47,7 @@
 3200,0,'The Lks',32
 8401,0,'Academy Way',84
 8400,0,'UBCO',84
+8801,0,'Westbank Exch B:A',88
 9700,0,'UBCO',97
 9701,0,'Westbank',97
 9801,0,'Downtown',98
