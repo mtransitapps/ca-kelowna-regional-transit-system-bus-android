@@ -13,7 +13,7 @@
 901,0,'Downtown',9
 900,0,'Orchard Pk',9
 1001,0,'Downtown',10
-1000,0,'North Rutland',10
+1000,0,'Rutland Exch',10
 1101,0,'Downtown',11
 1100,0,'Rutland',11
 1200,0,'McCulloch',12
@@ -23,7 +23,6 @@
 1401,0,'Black Mtn',14
 1400,0,'Rutland Exch',14
 1601,0,'Kettle Vly',16
-1700,0,'Southridge',17
 1801,0,'Downtown',18
 1800,0,'Glenmore',18
 1900,0,'Glenmore',19
